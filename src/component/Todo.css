@@ -1,0 +1,62 @@
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+    margin-bottom: 50px;
+
+}
+
+.text_box{
+
+    padding: 5px 15px;
+    font-size: 18px;
+    color: slategray;
+    font-weight: 600;
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+
+}
+
+.add_btn{
+    padding: 15px 30px;
+    background-color: blueviolet;
+    border-radius: 30px;
+    font-size: 20px;
+    color: #fff;
+    user-select: none;
+    display: block;
+    margin: 15px auto;
+}
+
+.all_list{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.all_list > h3{
+    display: inline-block;width: 600px;
+    background-color: rgb(43, 226, 150);
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 0;
+    
+}
+
+.all_list > button{
+    padding:0 30px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #fff;
+    user-select: none;
+    height: 50px;
+    display: block;
+    margin-left: 10px;
+   
+}
